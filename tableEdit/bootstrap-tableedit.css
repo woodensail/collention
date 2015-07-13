@@ -1,0 +1,14 @@
+.tableedit-table-container  {
+    border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    border: 1px solid #dddddd;
+    background-color: #fff;
+}
+.tableedit-table-container .fixed-table-body {
+    height: auto;
+}
+.tableedit-table-container .tableedit-table-table-container {
+    background-color: #fff;
+    border: 1px solid #dddddd;
+}
